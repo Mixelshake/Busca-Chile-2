@@ -1,0 +1,78 @@
+.word--kidnap {
+	font-family: 'Days One';
+	font-size: 9vw;
+	font-weight: 400;
+	color: #d5c12e;
+}
+
+.word--kidnap span {
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: 100%;
+}
+
+.Letra1 {
+	position: right ;
+}
+
+.github {
+
+	position: absolute;
+}
+
+.LETRAO {
+
+margin-left: 150px;
+color: rgba(56, 15, 15, 0.426);
+
+}
+
+.LETRAN {
+
+	margin-left: 150px;
+	color: darkslateblue;
+	}
+
+.LETRAC {
+
+	margin: 20cm;
+	margin-top: -5cm;
+	color: rgb(48, 41, 41);
+	}
+	.LETRAT {
+
+	margin-left: 50px;
+	margin-bottom: 0px;
+	color: rgb(117, 64, 119);
+		
+		}
+.LETRAS
+
+{ color: #29260f82;
+
+}
+
+.LETRAI
+
+{ color: black;
+
+}
+
+.LETRAN2
+
+{ color: black;
+	margin-top: auto;
+
+}
+
+.LETRAI2
+
+{ color: rgba(233, 50, 50, 0.241);
+	margin-bottom: 50px;
+
+}
+
+
+
+
+	
